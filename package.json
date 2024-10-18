@@ -1,14 +1,17 @@
 {
   "dependencies": {
     "body-parser": "^1.20.3",
+    "dom": "^0.0.3",
     "express": "^4.21.1",
     "firebase": "^10.14.1",
-    "multer": "^1.4.5-lts.1"
+    "multer": "^1.4.5-lts.1",
+    "react-icons": "^5.3.0",
+    "react-router": "^6.27.0",
+    "react-router-dom": "^6.27.0"
   },
   "name": "reactnode",
   "version": "1.0.0",
   "main": "Index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
